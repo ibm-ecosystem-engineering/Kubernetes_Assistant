@@ -1,0 +1,87 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+instance/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.secret.txt
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+.env
+env/
+.venv/
+.env/
+env.bak/
+*.env  # dotenv files storing environment variables
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# Eclipse
+.project
+.pydevproject
+
+# VS Code
+.vscode/
+
+# Environments & tools settings
+*.envrc
+.dockerignore
+.mypy_cache/
+.dmypy.json
+.gitattributes
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride

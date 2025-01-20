@@ -1,0 +1,9 @@
+question_task:
+  description: >
+    Answer the asked Kubernetes/OpenShift question: {question}. Do not make-up any answers. 
+    Make sure that the answers are always factually correct.
+  expected_output: >
+    Answer of the asked Kubernetes/OpenShift question
+  agent: assistant
+
+

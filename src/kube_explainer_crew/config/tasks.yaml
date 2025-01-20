@@ -1,0 +1,9 @@
+explainer_task:
+  description: >
+    Explain the provided Kubernetes/OpenShift code so that it is easy to understand: {explain_code}
+    Also summarize what the provided code does.
+  expected_output: >
+    Explaination of the provided Kubernetes/OpenShift code
+  agent: explainer
+
+

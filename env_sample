@@ -1,0 +1,6 @@
+GRANITE31_DENSE=granite3.1-dense:8b
+GRANITE3_MOE=granite3-moe:3b
+OLLAMA_URL=<OLLAMA Server URL> #Example: http://127.0.0.1:11434
+SERPER_API_KEY=<SERPER API KEY>
+TEAM_NAME=<Team Name>
+CONTACT_EMAILS=<Contact Emails>
